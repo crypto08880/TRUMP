@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$TRUMP - The First and Only TRUMP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333333;
+        }
+        header {
+            background: url('header-image.jpg') no-repeat center center;
+            background-size: cover;
+            height: 400px;
+            text-align: center;
+            color: white;
+            padding: 150px 20px;
+            background-color: #002868;
+        }
+        header h1 {
+            font-size: 50px;
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+            background-color: #ffffff;
+        }
+        main h2 {
+            color: #BF0A30;
+        }
+        .content {
+            margin: 20px auto;
+            max-width: 800px;
+            text-align: left;
+        }
+        .content p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #002868;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #BF0A30;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>$TRUMP</h1>
+    <p>The First and Only TRUMP Born from TRON</p>
+</header>
+
+<main>
+    <h2>About $TRUMP</h2>
+    <div class="content">
+        <p>TRUMP is a unique and unparalleled existence, created on the TRON network.</p>
+    </div>
+
+    <h2>Contract Address</h2>
+    <div class="content">
+        <p><strong>Address:</strong> TZ28XTEmtgo1JNb8P1d6c9f8YeHCFxF1zR</p>
+    </div>
+
+    <h2>Real-Time Charts</h2>
+    <div class="content">
+        <p>Explore TRUMP's real-time charts on <a href="https://www.dextools.io/app/en/tron/pair-explorer/TD2JacVFkQ3eXeHmDyVGKifm5NNbZFcnLh?t=1723948221661" target="_blank">DEXTools</a></p>
+    </div>
+
+    <h2>Community</h2>
+    <div class="content">
+        <p>Join the conversation on <a href="https://t.me/trumpcointrx" target="_blank">Telegram</a></p>
+    </div>
+
+    <h2>Official Twitter</h2>
+    <div class="content">
+        <p>Follow us on Twitter <a href="https://twitter.com/trumpcointrx" target="_blank">@trumpcointrx</a></p>
+    </div>
+</main>
+
+<footer>
+    <p>© 2024 $TRUMP - All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
